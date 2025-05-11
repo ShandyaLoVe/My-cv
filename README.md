@@ -5,7 +5,7 @@
 💬 WeChat: _Shan_00_  
 🔗 [ORCID 0009-0009-5774-8371](https://orcid.org/0009-0009-5774-8371)
 
-![Photo](./photo.png)
+![Photo](./photo_lls.png)
 
 ---
 
