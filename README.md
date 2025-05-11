@@ -68,23 +68,23 @@ I have shared my research and competition experiences on GitHub, including detai
   *Information Sciences (CCF B, IF: 8.1)*  
   Addressed information conflict optimization using entropy and distance of random permutation sets.
 
-- **Second Author**: [A new distance measure between two basic probability assignments based on penalty coefficient](https://www.sciencedirect.com/science/article/abs/pii/S0020025524007977)  
+- **Co-Author*: [A new distance measure between two basic probability assignments based on penalty coefficient](https://www.sciencedirect.com/science/article/abs/pii/S0020025524007977)  
   *Information Sciences (CCF B, IF: 8.1)*  
   Proposed a distance metric for non-independent information using divergence and penalty coefficients.
 
-- **Second Author**: [Information Fusion and Decision-Making Utilizing Additional Permutation Information](https://www.mdpi.com/2227-7390/12/22/3632)  
+- **Co-Author**: [Information Fusion and Decision-Making Utilizing Additional Permutation Information](https://www.mdpi.com/2227-7390/12/22/3632)  
   *Mathematics (SCI Q1, IF: 2.6)*  
   Developed a method to determine fusion order for asymmetric information.
 
-- **Second Author (Under Review)**: *A Similarity-based Label Noise Simulation Approach and Its Impact on the Classification Models for Hyperspectral Images*  
+- **Co-Author (Under Review)**: *A Similarity-based Label Noise Simulation Approach and Its Impact on the Classification Models for Hyperspectral Images*  
   *IEEE Transactions on Geoscience and Remote Sensing (SCI Q1 Top, IF: 8.2)*  
   Introduced a label noise simulation method based on feature distance and transition matrices.
 
-- **Second Author (Under Review)**: *Generation of Permutation Mass Functions in Random Permutation Set Based on Fuzzy Number*  
+- **Co-Author (Under Review)**: *Generation of Permutation Mass Functions in Random Permutation Set Based on Fuzzy Number*  
   *Computers & Industrial Engineering (SCI Q1, IF: 6.7)*  
   Proposed a method using triangular fuzzy numbers and central value bias for generating permutation mass functions.
 
-- **Second Author (Under Review)**: *A Novel Method for Generating Permutation Mass Functions using Permutations to Represent Class Bias*  
+- **Co-Author (Under Review)**: *A Novel Method for Generating Permutation Mass Functions using Permutations to Represent Class Bias*  
   *Expert Systems with Applications (SCI Q1 Top, IF: 8.6)*  
   Developed a method leveraging data boundaries and means to generate permutation mass functions.
 
